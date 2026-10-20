@@ -1,0 +1,23 @@
+{
+  "name": "rgs-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RGS Property Management System - Express + MongoDB API",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node src/seed/seed.js",
+    "create-admin": "node src/seed/create-admin.js",
+    "test": "node --test",
+    "upgrade": "node src/seed/upgrade.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.9.0"
+  }
+}

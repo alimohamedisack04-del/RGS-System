@@ -1,0 +1,3068 @@
+{
+ "settings": {
+  "company_name": "RGS",
+  "system_name": "RGS Property Management System",
+  "company_phone": "+252 61 000 0000",
+  "company_address": "Mogadishu, Somalia",
+  "currency": "$",
+  "receipt_footer": "Thank you for your payment."
+ },
+ "malls": [
+  {
+   "id": 3,
+   "name": "Mumtaaz Mall",
+   "location": "KM4, Mogadishu",
+   "description": "Shops and office rooms"
+  }
+ ],
+ "sections": [
+  {
+   "id": 1,
+   "mall_id": 3,
+   "name": "A",
+   "description": null,
+   "sort_order": 1
+  },
+  {
+   "id": 2,
+   "mall_id": 3,
+   "name": "B",
+   "description": null,
+   "sort_order": 2
+  },
+  {
+   "id": 3,
+   "mall_id": 3,
+   "name": "C",
+   "description": null,
+   "sort_order": 3
+  },
+  {
+   "id": 4,
+   "mall_id": 3,
+   "name": "D",
+   "description": null,
+   "sort_order": 4
+  },
+  {
+   "id": 5,
+   "mall_id": 3,
+   "name": "E",
+   "description": null,
+   "sort_order": 5
+  },
+  {
+   "id": 6,
+   "mall_id": 3,
+   "name": "F",
+   "description": null,
+   "sort_order": 6
+  },
+  {
+   "id": 7,
+   "mall_id": 3,
+   "name": "G",
+   "description": null,
+   "sort_order": 7
+  },
+  {
+   "id": 8,
+   "mall_id": 3,
+   "name": "H",
+   "description": null,
+   "sort_order": 8
+  }
+ ],
+ "rooms": [
+  {
+   "id": 12,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-01",
+   "room_type": "Shop",
+   "tenant_id": 9,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 13,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-02",
+   "room_type": "Shop",
+   "tenant_id": 10,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 14,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-03",
+   "room_type": "Shop",
+   "tenant_id": 11,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 15,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-04",
+   "room_type": "Shop",
+   "tenant_id": 12,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 16,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 17,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 18,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 19,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 20,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 21,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 22,
+   "mall_id": 3,
+   "section_id": 1,
+   "room_number": "A-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 23,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 24,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 25,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 26,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 27,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 28,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 29,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 30,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 31,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 32,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 33,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 34,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 35,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 36,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 37,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 38,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 39,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 40,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 41,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 42,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 43,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 44,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 45,
+   "mall_id": 3,
+   "section_id": 2,
+   "room_number": "B-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 46,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 47,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 48,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 49,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 50,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 51,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 52,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 53,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 54,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 55,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 56,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 57,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 58,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 59,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 60,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 61,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 62,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 63,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 64,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 65,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 66,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 67,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 68,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 69,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-24",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 70,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-25",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 71,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-26",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 72,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-27",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 73,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-28",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 74,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-29",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 75,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-30",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 76,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-31",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 77,
+   "mall_id": 3,
+   "section_id": 3,
+   "room_number": "C-32",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 78,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 79,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 80,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 81,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 82,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 83,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 84,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 85,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 86,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 87,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 88,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 89,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 90,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 91,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 92,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 93,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 94,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 95,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 96,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 97,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 98,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 99,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 100,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 101,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-24",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 102,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-25",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 103,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-26",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 104,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-27",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 105,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-28",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 106,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-29",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 107,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-30",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 108,
+   "mall_id": 3,
+   "section_id": 4,
+   "room_number": "D-31",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 109,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 110,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 111,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 112,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 113,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 114,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 115,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 116,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 117,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 118,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 119,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 120,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 121,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 122,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 123,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 124,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 125,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 126,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 127,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 128,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 129,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 130,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 131,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 132,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-24",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 133,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-25",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 134,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-26",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 135,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-27",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 136,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-28",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 137,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-29",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 138,
+   "mall_id": 3,
+   "section_id": 5,
+   "room_number": "E-30",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 139,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 140,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 141,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 142,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 143,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 144,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 145,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 146,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 147,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 148,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 149,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 150,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 151,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 152,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 153,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 154,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 155,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 156,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 157,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 158,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 159,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 160,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 161,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 162,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-24",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 163,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-25",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 164,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-26",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 165,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-27",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 166,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-28",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 167,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-29",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 168,
+   "mall_id": 3,
+   "section_id": 6,
+   "room_number": "F-30",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 169,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 170,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 171,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 172,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 173,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 174,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 175,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 176,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 177,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 178,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 179,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 180,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 181,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 182,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 183,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 184,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 185,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-17",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 186,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-18",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 187,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-19",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 188,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-20",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 189,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-21",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 190,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-22",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 191,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-23",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 192,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-24",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 193,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-25",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 194,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-26",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 195,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-27",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 196,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-28",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 197,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-29",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 198,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-30",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 199,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-31",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 200,
+   "mall_id": 3,
+   "section_id": 7,
+   "room_number": "G-32",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 201,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-01",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 202,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-02",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 203,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-03",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 204,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-04",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 205,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-05",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 206,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-06",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 207,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-07",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 208,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-08",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 209,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-09",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 210,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-10",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 211,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-11",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 212,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-12",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 213,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-13",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 214,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-14",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 215,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-15",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  },
+  {
+   "id": 216,
+   "mall_id": 3,
+   "section_id": 8,
+   "room_number": "H-16",
+   "room_type": "Shop",
+   "tenant_id": null,
+   "monthly_rent": 95.12
+  }
+ ],
+ "apartments": [
+  {
+   "id": 1,
+   "apartment_number": "A101",
+   "building": "Taleex Residence",
+   "apartment_type": "2 Bedrooms",
+   "tenant_id": 13,
+   "monthly_rent": 450
+  },
+  {
+   "id": 2,
+   "apartment_number": "A102",
+   "building": "Taleex Residence",
+   "apartment_type": "3 Bedrooms",
+   "tenant_id": 14,
+   "monthly_rent": 550
+  },
+  {
+   "id": 3,
+   "apartment_number": "A103",
+   "building": "Taleex Residence",
+   "apartment_type": "2 Bedrooms",
+   "tenant_id": null,
+   "monthly_rent": 450
+  },
+  {
+   "id": 4,
+   "apartment_number": "A104",
+   "building": "Taleex Residence",
+   "apartment_type": "1 Bedroom",
+   "tenant_id": 15,
+   "monthly_rent": 350
+  },
+  {
+   "id": 5,
+   "apartment_number": "B201",
+   "building": "Hodan Towers",
+   "apartment_type": "2 Bedrooms",
+   "tenant_id": 16,
+   "monthly_rent": 500
+  },
+  {
+   "id": 6,
+   "apartment_number": "B202",
+   "building": "Hodan Towers",
+   "apartment_type": "3 Bedrooms",
+   "tenant_id": 17,
+   "monthly_rent": 600
+  },
+  {
+   "id": 7,
+   "apartment_number": "B203",
+   "building": "Hodan Towers",
+   "apartment_type": "1 Bedroom",
+   "tenant_id": 18,
+   "monthly_rent": 380
+  },
+  {
+   "id": 8,
+   "apartment_number": "B204",
+   "building": "Hodan Towers",
+   "apartment_type": "2 Bedrooms",
+   "tenant_id": null,
+   "monthly_rent": 500
+  }
+ ],
+ "lands": [
+  {
+   "id": 1,
+   "name": "Plot A01",
+   "location": "Taleex",
+   "size": "20 x 30",
+   "size_unit": "m",
+   "amount": 500,
+   "amount_period": "monthly",
+   "tenant_id": 19,
+   "owner_name": null,
+   "owner_phone": null,
+   "status": "rented",
+   "notes": null
+  },
+  {
+   "id": 2,
+   "name": "Plot A02",
+   "location": "Hodan",
+   "size": "25 x 40",
+   "size_unit": "m",
+   "amount": 45000,
+   "amount_period": "total",
+   "tenant_id": null,
+   "owner_name": "Faarax Cali Nuur",
+   "owner_phone": "+252 61 522 0001",
+   "status": "sold",
+   "notes": "Sold - full price"
+  },
+  {
+   "id": 3,
+   "name": "Plot B01",
+   "location": "KM4",
+   "size": "15 x 20",
+   "size_unit": "m",
+   "amount": 300,
+   "amount_period": "monthly",
+   "tenant_id": null,
+   "owner_name": null,
+   "owner_phone": null,
+   "status": "available",
+   "notes": null
+  },
+  {
+   "id": 4,
+   "name": "Plot C07",
+   "location": "Afgooye Road",
+   "size": "1",
+   "size_unit": "hectare",
+   "amount": 6000,
+   "amount_period": "annual",
+   "tenant_id": null,
+   "owner_name": "Cabdi Xasan Maxamed",
+   "owner_phone": "+252 61 522 0002",
+   "status": "reserved",
+   "notes": "Reserved until contract signed"
+  }
+ ],
+ "tenants": [
+  {
+   "id": 9,
+   "full_name": "Yusuf Ali Mohamud",
+   "phone": "+252 61 511 0009",
+   "email": null,
+   "address": "KM4",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 10,
+   "full_name": "Nasra Abdirahman Said",
+   "phone": "+252 61 511 0010",
+   "email": null,
+   "address": "Hamar Weyne",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 11,
+   "full_name": "Abdirizak Hussein Adan",
+   "phone": "+252 61 511 0011",
+   "email": null,
+   "address": "Karaan",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 12,
+   "full_name": "Ifrah Mahad Salad",
+   "phone": "+252 61 511 0012",
+   "email": null,
+   "address": "Hodan",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 13,
+   "full_name": "Omar Sheikh Abdi",
+   "phone": "+252 61 511 0013",
+   "email": null,
+   "address": "Taleex",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 14,
+   "full_name": "Khadija Noor Ahmed",
+   "phone": "+252 61 511 0014",
+   "email": null,
+   "address": "Taleex",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 15,
+   "full_name": "Bashir Aden Mohamed",
+   "phone": "+252 61 511 0015",
+   "email": null,
+   "address": "Taleex",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 16,
+   "full_name": "Maryan Ali Farah",
+   "phone": "+252 61 511 0016",
+   "email": null,
+   "address": "Hodan",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 17,
+   "full_name": "Liban Abdi Warsame",
+   "phone": "+252 61 511 0017",
+   "email": null,
+   "address": "Hodan",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 18,
+   "full_name": "Amina Hassan Guled",
+   "phone": "+252 61 511 0018",
+   "email": null,
+   "address": "Hodan",
+   "notes": null,
+   "start_months_ago": 5,
+   "start_day": 1
+  },
+  {
+   "id": 19,
+   "full_name": "Abdiqani Farah Yusuf",
+   "phone": "+252 61 511 0019",
+   "email": null,
+   "address": "Taleex",
+   "notes": "Rents Plot A01",
+   "start_months_ago": 5,
+   "start_day": 1
+  }
+ ],
+ "payments": [
+  {
+   "id": 9,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 10,
+   "unit_type": "room",
+   "unit_id": 13,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 11,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 12,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 13,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 14,
+   "unit_type": "apartment",
+   "unit_id": 2,
+   "rent_amount": 550,
+   "amount_paid": 330,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 15,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 350,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 16,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 17,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 600,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 18,
+   "unit_type": "apartment",
+   "unit_id": 7,
+   "rent_amount": 380,
+   "amount_paid": 380,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 19,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 5,
+   "paid_months_ago": 5,
+   "paid_day": 10
+  },
+  {
+   "id": 28,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 29,
+   "unit_type": "room",
+   "unit_id": 13,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 30,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 31,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 32,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 33,
+   "unit_type": "apartment",
+   "unit_id": 2,
+   "rent_amount": 550,
+   "amount_paid": 550,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 34,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 210,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 35,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 36,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 600,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 37,
+   "unit_type": "apartment",
+   "unit_id": 7,
+   "rent_amount": 380,
+   "amount_paid": 380,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 38,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 4,
+   "paid_months_ago": 4,
+   "paid_day": 9
+  },
+  {
+   "id": 47,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 48,
+   "unit_type": "room",
+   "unit_id": 13,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 49,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 50,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 51,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 52,
+   "unit_type": "apartment",
+   "unit_id": 2,
+   "rent_amount": 550,
+   "amount_paid": 550,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 53,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 350,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 54,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 300,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 55,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 600,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 56,
+   "unit_type": "apartment",
+   "unit_id": 7,
+   "rent_amount": 380,
+   "amount_paid": 380,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 57,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 3,
+   "paid_months_ago": 3,
+   "paid_day": 8
+  },
+  {
+   "id": 66,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 67,
+   "unit_type": "room",
+   "unit_id": 13,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 68,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 69,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 70,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 71,
+   "unit_type": "apartment",
+   "unit_id": 2,
+   "rent_amount": 550,
+   "amount_paid": 550,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 72,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 350,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 73,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 74,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 360,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 75,
+   "unit_type": "apartment",
+   "unit_id": 7,
+   "rent_amount": 380,
+   "amount_paid": 380,
+   "payment_method": "EVC Plus",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 76,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Bank",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 2,
+   "paid_months_ago": 2,
+   "paid_day": 7
+  },
+  {
+   "id": 85,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 86,
+   "unit_type": "room",
+   "unit_id": 13,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 87,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 88,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 89,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 90,
+   "unit_type": "apartment",
+   "unit_id": 2,
+   "rent_amount": 550,
+   "amount_paid": 550,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 91,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 350,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 92,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 93,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 600,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 94,
+   "unit_type": "apartment",
+   "unit_id": 7,
+   "rent_amount": 380,
+   "amount_paid": 380,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 95,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 1,
+   "paid_months_ago": 1,
+   "paid_day": 7
+  },
+  {
+   "id": 102,
+   "unit_type": "room",
+   "unit_id": 12,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 103,
+   "unit_type": "room",
+   "unit_id": 14,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Bank",
+   "reference": "TRX-2202",
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 104,
+   "unit_type": "room",
+   "unit_id": 15,
+   "rent_amount": 95.12,
+   "amount_paid": 95.12,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 105,
+   "unit_type": "apartment",
+   "unit_id": 1,
+   "rent_amount": 450,
+   "amount_paid": 450,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 106,
+   "unit_type": "apartment",
+   "unit_id": 4,
+   "rent_amount": 350,
+   "amount_paid": 350,
+   "payment_method": "EVC Plus",
+   "reference": "EVC-1003",
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 107,
+   "unit_type": "apartment",
+   "unit_id": 5,
+   "rent_amount": 500,
+   "amount_paid": 250,
+   "payment_method": "Cash",
+   "reference": null,
+   "received_by": 2,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 108,
+   "unit_type": "apartment",
+   "unit_id": 6,
+   "rent_amount": 600,
+   "amount_paid": 600,
+   "payment_method": "Bank",
+   "reference": "TRX-2203",
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  },
+  {
+   "id": 109,
+   "unit_type": "land",
+   "unit_id": 1,
+   "rent_amount": 500,
+   "amount_paid": 500,
+   "payment_method": "Bank",
+   "reference": "TRX-2204",
+   "received_by": 1,
+   "period_months_ago": 0,
+   "paid_months_ago": 0,
+   "paid_day": "today"
+  }
+ ],
+ "expenses": [
+  {
+   "name": "Electricity bill",
+   "amount": 420,
+   "created_by": 1,
+   "months_ago": 2,
+   "day": 7
+  },
+  {
+   "name": "Security guards salary",
+   "amount": 600,
+   "created_by": 1,
+   "months_ago": 2,
+   "day": 7
+  },
+  {
+   "name": "Electricity bill",
+   "amount": 435,
+   "created_by": 2,
+   "months_ago": 1,
+   "day": 7
+  },
+  {
+   "name": "Security guards salary",
+   "amount": 600,
+   "created_by": 1,
+   "months_ago": 1,
+   "day": 7
+  },
+  {
+   "name": "Water tank refill",
+   "amount": 85,
+   "created_by": 3,
+   "months_ago": 1,
+   "day": 7
+  },
+  {
+   "name": "Cleaning materials",
+   "amount": 60,
+   "created_by": 2,
+   "months_ago": 0,
+   "day": "today"
+  },
+  {
+   "name": "Generator fuel",
+   "amount": 150,
+   "created_by": 3,
+   "months_ago": 0,
+   "day": "today"
+  },
+  {
+   "name": "Plumbing repair (Mumtaaz Mall)",
+   "amount": 75,
+   "created_by": 4,
+   "months_ago": 0,
+   "day": "today"
+  }
+ ],
+ "users": [
+  {
+   "id": 1,
+   "full_name": "System Administrator",
+   "username": "admin",
+   "email": "admin@rgs.local",
+   "role": "admin"
+  },
+  {
+   "id": 2,
+   "full_name": "Cashier One",
+   "username": "cashier1",
+   "email": "cashier1@rgs.local",
+   "role": "cashier"
+  },
+  {
+   "id": 3,
+   "full_name": "Cashier Two",
+   "username": "cashier2",
+   "email": "cashier2@rgs.local",
+   "role": "cashier"
+  },
+  {
+   "id": 4,
+   "full_name": "Office Editor",
+   "username": "editor",
+   "email": "editor@rgs.local",
+   "role": "editor"
+  }
+ ]
+}

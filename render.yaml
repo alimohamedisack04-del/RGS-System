@@ -1,0 +1,23 @@
+# Optional: one-click deploy on Render (render.com) — New + > Blueprint > pick this repository.
+services:
+  - type: web
+    name: rgs-property-management
+    runtime: node
+    plan: free
+    buildCommand: npm run install-all && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TZ
+        value: Africa/Mogadishu
+      - key: JWT_SECRET
+        generateValue: true
+      - key: SHOW_DEMO_LOGINS
+        value: "false"     # never list test accounts on the live site
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false        # your admin password (8+ characters) — used once to create the first administrator
+      - key: MONGODB_URI
+        sync: false        # paste your MongoDB Atlas connection string in the Render dashboard

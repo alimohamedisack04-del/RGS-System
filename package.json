@@ -1,0 +1,16 @@
+{
+  "name": "rgs-property-management-mern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RGS Property Management System - MERN edition (MongoDB, Express, React, Node.js)",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --include=dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "seed": "npm run seed --prefix server -- --yes",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "test": "npm test --prefix server"
+  }
+}
